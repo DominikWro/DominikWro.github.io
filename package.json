@@ -1,0 +1,21 @@
+{
+  "name": "python-the-right-way",
+  "version": "0.0.0",
+  "description": "![](https://placekitten.com/g/500/300)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DominikWro/DominikWro.github.io.git"
+  },
+  "author": "Dominik Wronski",
+  "license": "CC BY-NC-SA 3.0",
+  "bugs": {
+    "url": "https://github.com/DominikWro/DominikWro.github.io/issues"
+  },
+  "homepage": "http://jstherightway.org",
+  "devDependencies": {
+  }
+}
