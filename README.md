@@ -13,7 +13,7 @@ Python is eating the world. I think we need a place to put all the best practice
 This website is inspired by [jstherightway.org](http://jstherightway.org) by William Oliveira.
 ## Who
 
-My name is [Dominik Wronski](http://github.com/dominikwro). I'm a software engineer and python enthusiast I am also co-organizer of [wroc.py](www.meetup.com/wroc.py))
+My name is [Dominik Wronski](http://github.com/dominikwro). I'm a software engineer and python enthusiast I am also co-organizer of [wroc.py](www.meetup.com/wroc.py)
 
 ## License
 
